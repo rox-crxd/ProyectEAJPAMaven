@@ -4,9 +4,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Registrar Producto</title>
+<title>Actualizar Producto</title>
 </head>
-<body>
+<body bgcolor="#c5dec9">
+<h1 align="center">
+Actualizar Producto...
+</h1>
 
 </body>
 </html>

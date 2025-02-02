@@ -18,7 +18,7 @@ public class ControladorCliente extends HttpServlet {
     public ControladorCliente() {
         super();
         // TODO Auto-generated constructor stub
-    }
+    } 
 
 	/**
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
